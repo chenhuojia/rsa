@@ -1,6 +1,6 @@
 <?php
 
-class Token{
+class RsaEncrypt{
     
     const TOKEN_STR='access_token';
     private  $error = '';     // 错误信息
