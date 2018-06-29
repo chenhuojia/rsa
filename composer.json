@@ -2,7 +2,7 @@
     "name": "chj/encrypt",
     "description": "rsa对称加密",
    "keywords": [
-    "encrypt",
+    "encrypt"
   ],
     "minimum-stability": "stable",
     "authors": [
